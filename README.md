@@ -1,7 +1,13 @@
 # My Web Apps
 
 - [Tic-Tac-Toe](https://catoru-nekojo.github.io/Tic-Tac-Toe/)
-- [Rock-Paper-Scissors Web Game](https://catoru-nekojo.github.io/Rock-Paper-Scissors/)
+  <img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/299cfa7b-cbb6-40b9-87fc-72f7fdb9eee0" />
+I made this 3 years ago! I hope you enjoy a 15-year old novice's recreation of Tic-Tac-Toe
+
+- [Rock-Paper-Scissors](https://catoru-nekojo.github.io/Rock-Paper-Scissors/)
+<img width="478" height="481" alt="image" src="https://github.com/user-attachments/assets/2f15b929-4148-42f3-9a14-762bdc870700" />
+
+It's no secret not as much effort was put into this one but I still love it all the same. Also made this 3 years ago.
 
 # Other Projects
 To run these, you'll have to;
